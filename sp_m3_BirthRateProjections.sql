@@ -1,6 +1,6 @@
-CREATE PROCEDURE [tmd].[sp_m3_BirthRate_Projections]
+CREATE PROCEDURE [<SCHEMA>].[sp_m3_BirthRate_Projections]
 /*********************************************************************************
-Written by: Amanda Selle, SUSS
+Written by: Amanda Selle
 2/5/2021
 Purpose: Calculate projected U.S. Birth and Fertility Rates.
 
